@@ -1,5 +1,3 @@
-# Given two sorted arrays of integers
-# Write a function that returns a new sorted array that contains all the elements from both arrays
-
-# Input: A = [1,2,4,7,8] , B = [2,5,6,9]
-# Output: Combined = [1,2,2,4,5,6,7,8,9]
+# Write a function that takes a string of parentheses (e.g. "((()))") as input and returns True if the parentheses are balanced 
+# (i.e. every opening parenthesis has a corresponding closing parenthesis)
+# and False otherwise.
